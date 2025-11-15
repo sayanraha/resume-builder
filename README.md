@@ -15,7 +15,7 @@ AI-Powered Resume Creation and Optimization using the MERN Stack
 ![ImageKit](https://img.shields.io/badge/ImageKit-000000?style=flat-square&logo=imagekit&logoColor=white)
 
 ## LIVE - DEMO 🌐
-Visit the 👉 [_LINK 🔗_](https://your-deployed-app-link.com/)
+Visit the 👉 [_LINK 🔗_](https://resumo-blue.vercel.app/)
 
 </div>
 
