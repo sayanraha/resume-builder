@@ -115,7 +115,7 @@ The application follows a standard **Client-Server Architecture** typical of the
 
 1. Clone the repository:
 ```console
-git clone [https://github.com/your-username/ai-resume-builder.git](https://github.com/your-username/ai-resume-builder.git)
+git clone https://github.com/sayanraha/resume-builder.git
 cd ai-resume-builder
 ```
 2. Install client dependencies:
